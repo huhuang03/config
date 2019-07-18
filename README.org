@@ -1,0 +1,6 @@
+ As we known, as a coder, most of us use many comptures.
+
+So we may config a computer many times.
+
+This is for config cross compture
+
